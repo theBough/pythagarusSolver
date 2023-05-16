@@ -1,13 +1,29 @@
 html {
   height: 100%;
   width: 100%;
+  background-color: #006D77;
 }
 .title{
-  
+  font-size: 46px;
+  background-color: #83C5BE;
+  text-align: center;
+  padding: 5px;
+  border: solid 5px;
+  border-color:#E29578;
 }
 .myInput{
-  
+  font-size: 30px;
+  background-color: #E29578;
+  color: #EDF6F9;
 }
 .myBtn{
-  
+  font-size: 20px;
+  background-color: #83C5BE;
+}
+.myBtn:hover{
+  background-color: #FFDDD2;
+}
+.input-container{
+  text-align: center;
+  justify-content: center;
 }
